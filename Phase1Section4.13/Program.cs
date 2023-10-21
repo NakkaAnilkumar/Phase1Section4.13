@@ -11,6 +11,7 @@ namespace Phase1Section4._13
         static void Main(string[] args)
         {
             runApp();
+            Console.ReadLine();
         }
 
         public static void runApp()
@@ -31,7 +32,7 @@ namespace Phase1Section4._13
                 }
                 
             }
-            Console.ReadLine();
+            
         }
     }
 
